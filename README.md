@@ -1,2 +1,1 @@
-# machine_learning_handson
-Materials for in-house machine learning training
+# 機械学習ハンズオン教材（社内勉強会用）
